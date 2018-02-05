@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\605pc\Desktop\aa\face-detection\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="C:\Users\605pc\Desktop\aa\face-detection\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.0.0_69a985d1de87ca79e2aa5d2c24b12ed3a8f05883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\605pc\Desktop\aa\face-detection\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\605pc\Desktop\aa\face-detection\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_2edde0553c494c7b28544a683706c38c200c8e95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\605pc\Desktop\aa\face-detection\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\605pc\Desktop\aa\face-detection\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_9847a092a7b2087bffc3072b697d81d90073576f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\605pc\Desktop\aa\face-detection\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\605pc\Desktop\aa\face-detection\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_dcd9ed1d9ac5ca63036462789dd0b8e38672e6e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\605pc\Desktop\aa\face-detection\openCVSamplefacedetection\build\intermediates\exploded-aar\com.github.barteksc\android-pdf-viewer\1.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95bd5b621003270d2f70baa74ac86d79fce276e9">
+        <dex dex="C:\Users\605pc\Desktop\aa\face-detection\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\com.github.barteksc-android-pdf-viewer-1.4.0_32c2111e17a6d59eeb067382a7858758fab952e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\605pc\Desktop\aa\face-detection\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\605pc\Desktop\aa\face-detection\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_f4750d070158cbc5f791920ac797ce665a42f3de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\605pc\Desktop\aa\face-detection\openCVSamplefacedetection\build\intermediates\exploded-aar\gun0912.ted\tedpermission\2.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1eb333af088ce95853394fc07cb8f191e4f1f894">
+        <dex dex="C:\Users\605pc\Desktop\aa\face-detection\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\gun0912.ted-tedpermission-2.0.0_87eb36a7ea6e515862703af954e79df20907d76c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\605pc\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\605pc\Desktop\aa\face-detection\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_eb33a4a04642c2dd5f4cd0e2e9b8f0b625a7a922.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\605pc\Desktop\aa\face-detection\openCVSamplefacedetection\build\intermediates\exploded-aar\com.github.gcacace\signature-pad\1.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e38ceffed1fb752b3ab4f4b3678697ff1924c57">
+        <dex dex="C:\Users\605pc\Desktop\aa\face-detection\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\com.github.gcacace-signature-pad-1.2.0_83d05fc92862001f7794f21b05712cb1ec7bcc17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\605pc\Desktop\aa\face-detection\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\605pc\Desktop\aa\face-detection\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_9522fdd997f900dbaf4179c2ac8cf2ab64b300a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\605pc\Desktop\aa\face-detection\openCVSamplefacedetection\build\intermediates\exploded-aar\face-detection\openCVLibrary300\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a06ec1bf4040747bdbdfc6aaadc889fbb575973b">
+        <dex dex="C:\Users\605pc\Desktop\aa\face-detection\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\face-detection-openCVLibrary300-unspecified_8389e50b3e68acbdae6b23d50aaabb218fd852ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\605pc\Desktop\aa\face-detection\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="C:\Users\605pc\Desktop\aa\face-detection\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.0.0_83c41214e24f58fb8973a6f209e749cf811fe0de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\605pc\Desktop\aa\face-detection\openCVSamplefacedetection\build\intermediates\exploded-aar\com.github.barteksc\pdfium-android\1.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c17272eb894dcb4217871365757ba21f605d35e8">
+        <dex dex="C:\Users\605pc\Desktop\aa\face-detection\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\com.github.barteksc-pdfium-android-1.4.0_1541a10aeed61fd3f72de155f4c865e78740519d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\605pc\Desktop\aa\face-detection\openCVSamplefacedetection\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="C:\Users\605pc\Desktop\aa\face-detection\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\com.android.support-design-24.0.0_a2a2e0d7cb7ca7efdc18dc3cab66717fd4ea6828.jar" />
+    </item>
+
+</items>
